@@ -1,0 +1,11 @@
+name: Spig-Mint
+version: 1.0.1
+author: Nicholas SnackBurn
+main: com.spigotmint.main.main
+description: Spigot with a hint of mint!
+website: https://youtube.com
+commands:
+
+   kit:
+      description: gives u dimanonds for dirt
+      usage: /kit
