@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/NicholasBlackburn1/Spigot-mint/logo.jpg
+![alt text](/logo.jpg)
 
 # Spigot-Mint
 
