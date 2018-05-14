@@ -1,4 +1,4 @@
-![alt text](/logo.jpg)
+![alt text](/logo.jpg?raw=true "Optional Title")
 
 # Spigot-Mint
 
