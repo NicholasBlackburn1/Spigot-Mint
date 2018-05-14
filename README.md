@@ -1,4 +1,4 @@
-![alt text](/logo.jpg?raw=true "Optional Title")
+![alt text](https://raw.github.com/NicholasBlackburn1/Spigot-mint/master/logo.jpg)
 
 # Spigot-Mint
 
